@@ -2,7 +2,9 @@
 
 🎓 Recién graduado del curso de **Programación Web con Java (631h)** en **EOI - Escuela de Organización Industrial**.  
 🎓 Actuamente terminando el **Grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**
+💻 Formandome en **Angular y TypeScript**
 💻 Apasionado por el desarrollo web full-stack y en constante aprendizaje de nuevas tecnologías.
+
 
 ---
 
