@@ -4,7 +4,8 @@
 🎓 Curso de **TypeScript  (3,5h)** en **UDEMY**.  
 🎓 Curso de **Angular  (56,5h)** en **UDEMY**.  
 🎓 Curso de **Programación Androdid desde cero (253h)** en **EOI - Escuela de Organización Industrial**. 
-🎓 Actuamente terminando el **Grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+
+🎓 **Actuamente** terminando el **Grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
 ---
 
