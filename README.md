@@ -1,25 +1,29 @@
 # 👋 ¡Hola! Soy Fer
-
-🎓 Recién graduado del curso de **Programación Web con Java (631h)** en **EOI - Escuela de Organización Industrial**.  
+ 
+🎓 Curso de **Programación Web con Java (622,75h)** en **EOI - Escuela de Organización Industrial**.  
+🎓 Curso de **TypeScript  (3,5h)** en **UDEMY**.  
+🎓 Curso de **Angular  (56,5h)** en **UDEMY**.  
+🎓 Curso de **Programación Androdid desde cero (253h)** en **EOI - Escuela de Organización Industrial**. 
 🎓 Actuamente terminando el **Grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-
-💻 Formandome en **Angular y TypeScript**.
 
 ---
 
 ## 🧰 Tecnologías y herramientas que manejo:
 
 **Backend**
-- Java · Spring Boot · JPA · Maven
+- Java · Kotlin · Spring Boot · JPA · Hibernate · JDBC · Maven · Programación Orientada a Objetos (POO
 
 **Frontend**
-- HTML · CSS · JavaScript · Bootstrap
+- HTML · CSS · JavaScript · Bootstrap · TypeScript · Angular
 
 **Base de datos**
-- MySQL · PostgreSQL
+- MySQL · PostgreSQL · SQL
 
-**Herramientas**
-- Git · GitHub · IntelliJ IDEA · VS Code · Postman
+**Herramientas y DevOps:**
+- Git · GitHub · Docker · IntelliJ · VisualStudio Code · Android Studio · Jira
+
+**IA y productividad**
+- ChatGPT · GitHub Copilot · Claude · Gemini 
 
 ---
 
@@ -34,15 +38,15 @@ Trabajando en equipo y desarrollándola para mejorarla día a día.
 
 ## 🚀 ¿Qué estoy buscando?
 
-Actualmente en búsqueda de **mi primera oportunidad laboral como desarrollador web**.  
+Actualmente en búsqueda de **mi primera oportunidad laboral como desarrollador**.  
 Me interesa especialmente trabajar en entornos donde pueda seguir aprendiendo, aportar valor real y crecer con buenos equipos.
 
 ---
 
 ## 📫 Conectemos
 
-📩 fersanchezmartinez1997@gmail.com  
-🔗 https://www.linkedin.com/in/fernando-s%C3%A1nchez-mart%C3%ADnez/
+📩 fernandosmartinez.dev@gmail.com  
+🔗 https://www.linkedin.com/in/fernandosmartinez/?skipRedirect=true
 
 ---
 
