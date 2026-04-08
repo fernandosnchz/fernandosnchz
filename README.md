@@ -12,13 +12,13 @@
 ## 🧰 Tecnologías y herramientas que manejo:
 
 **Backend**
-- Java · Kotlin · Spring Boot · JPA · Hibernate · JDBC · Maven · Programación Orientada a Objetos (POO
+- Java · Kotlin · Spring Boot · JPA · Hibernate · JDBC · Maven · Programación Orientada a Objetos (POO)
 
 **Frontend**
 - HTML · CSS · JavaScript · Bootstrap · TypeScript · Angular
 
 **Base de datos**
-- MySQL · PostgreSQL · SQL
+- MySQL · PostgreSQL · SQL · Firebase 
 
 **Herramientas y DevOps:**
 - Git · GitHub · Docker · IntelliJ · VisualStudio Code · Android Studio · Jira
