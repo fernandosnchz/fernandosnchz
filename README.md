@@ -25,7 +25,7 @@
 
 | Curso | Centro | Horas |
 |-------|--------|-------|
-| DAM — Desarrollo de Aplicaciones Multiplataforma | EOI | En curso |
+| DAM — Desarrollo de Aplicaciones Multiplataforma | ILERNA | En curso |
 | Programación Web con Java | EOI | 622h |
 | Programación Android desde cero | EOI | 253h |
 | Angular | Udemy | 56.5h |
@@ -57,7 +57,7 @@
 ### 🔵 [FAAL Workspace](https://github.com/fernandosnchz/proyectoEOIgrupo01)
 > Solución web colaborativa para equipos que buscan mejorar su productividad. Facilita la organización de tareas y procesos de forma rápida, eficaz y sencilla.
 
-`Spring Boot` `Angular` `Java` `MySQL`
+`Spring Boot` `Java` `MySQL` `JavaScript` `Bootstrap``HTML` `CSS`
 
 ---
 
