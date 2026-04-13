@@ -57,7 +57,7 @@
 ### 🔵 [FAAL Workspace](https://github.com/fernandosnchz/proyectoEOIgrupo01)
 > Solución web colaborativa para equipos que buscan mejorar su productividad. Facilita la organización de tareas y procesos de forma rápida, eficaz y sencilla.
 
-`Spring Boot` `Java` `MySQL` `JavaScript` `Bootstrap``HTML` `CSS`
+`Spring Boot` `Java` `MySQL` `JavaScript` `Bootstrap` `HTML` `CSS`
 
 ---
 
