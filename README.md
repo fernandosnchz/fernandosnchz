@@ -1,10 +1,9 @@
 <div align="center">
 
 # 👋 ¡Hola! Soy Fernando Sánchez Martínez
-
 ### Desarrollador en formación | Apasionado por la tecnología y la resolución de problemas
 
-📍 Córdoba, España &nbsp;·&nbsp; 📧 fernandosmartinez.dev@gmail.com
+📍 Córdoba, España &nbsp;·&nbsp; 📧 [fernandosmartinez.dev@gmail.com](mailto:fernandosmartinez.dev@gmail.com)
 
 ![Java](https://img.shields.io/badge/Java-0d6efd?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6db33f?style=flat-square&logo=springboot&logoColor=white)
@@ -13,9 +12,20 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandosmartinez/?skipRedirect=true)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fernandosnchz)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandosnchz&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosnchz&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -71,8 +81,7 @@ Me interesa especialmente trabajar en entornos donde pueda seguir aprendiendo, a
 <div align="center">
 
 ### 📫 Contacto
-
-**fernandosmartinez.dev@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/fernandosmartinez/?skipRedirect=true)
+**[fernandosmartinez.dev@gmail.com](mailto:fernandosmartinez.dev@gmail.com)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/fernandosmartinez/?skipRedirect=true)
 
 *¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones, feedback y oportunidades* 🤝
 
