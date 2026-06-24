@@ -24,7 +24,7 @@
 
 | Curso | Centro | Horas |
 |-------|--------|-------|
-| DAM — Desarrollo de Aplicaciones Multiplataforma | ILERNA | En curso |
+| DAM — Desarrollo de Aplicaciones Multiplataforma | ILERNA | 2000h |
 | Programación Web con Java | EOI | 622h |
 | Programación Android desde cero | EOI | 253h |
 | Angular | Udemy | 56.5h |
